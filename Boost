@@ -1,0 +1,38 @@
+/**
+* @name Boost
+* @version Auto Update
+* @description Boost Theme By JusTheDomas
+* @author JusTheDomas#6900
+* @Source https://github.com/JusTheDomas/BoostTheme
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url('https://fonts.googleapis.com/css2?family=Acme');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--roundness: 50px;
+--main-color: #BD3F57FF;
+--hover-color: #9B2F77FF;
+--home-color: #eeeeee;
+--home-size: 24px;
+--shadow: #0000009D;
+--background-image: url('https://p4.wallpaperbetter.com/wallpaper/628/650/522/car-carx-drift-drift-cars-drifting-hd-wallpaper-preview.jpg');
+--background-blur: 2px;
+--background-darkness: 0.6;
+--popup-background: url('https://p4.wallpaperbetter.com/wallpaper/628/650/522/car-carx-drift-drift-cars-drifting-hd-wallpaper-preview.jpg');
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--customFont: 'Acme';
+}
